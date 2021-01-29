@@ -10,21 +10,21 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
+        <span>𝗖</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗚𝗶𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       </tr>
     <tr valign="top">
       <td width="30%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
