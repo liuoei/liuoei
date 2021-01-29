@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="40%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://liuoei.github.io/"><img alt="Blog" src="https://img.shields.io/badge/Website-www.liuoei.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://liuoei.github.io/"><img alt="Blog" src="https://img.shields.io/badge/Blog-www.liuoei.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://space.bilibili.com/28941780/"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Gabriellli-blue?style=flat-square&logo=bilibili"></a>
 <a href="https://www.zhihu.com/people/he-he-da-91-7"><img alt="zhihu" src="https://img.shields.io/badge/Zhihu-Gabriel-blue?style=flat-square&logo=zhihu"></a>
 <a href="mailto:jsrglsq@outlook.com"><img alt="Email" src="https://img.shields.io/badge/jsrglsq@outlook.com-blue?style=flat-square&logo=gmail"></a>
