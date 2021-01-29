@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 <a href="https://liuoei.github.io/"><img alt="Blog" src="https://img.shields.io/badge/Website-www.liuoei.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://space.bilibili.com/28941780/"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Gabriellli-blue?style=flat-square&logo=bilibili"></a>
 <a href="https://www.zhihu.com/people/he-he-da-91-7"><img alt="zhihu" src="https://img.shields.io/badge/Zhihu-Gabriel-blue?style=flat-square&logo=zhihu"></a>
-<a href="jsrglsq@outlook.com"><img alt="Email" src="https://img.shields.io/badge/jsrglsq@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:jsrglsq@outlook.com"><img alt="Email" src="https://img.shields.io/badge/jsrglsq@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
