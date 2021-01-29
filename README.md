@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 </table>
 <a href="https://github.com/liuoei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liuoei&theme=buefy&show_icons=true" />
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieliu&theme=buefy&layout=compact" />
 </a>
 
