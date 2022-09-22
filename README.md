@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying Optical Engineering at Huazhong University of Science and Technology
+- 🔭 I’m currently studying Optical Engineering at Zhejiang University
 - 🌱 I’m currently learning Algorithm and Data Structure
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
